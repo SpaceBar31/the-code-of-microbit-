@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="{{!er{br~2Bh?^e~+),|" x="0" y="0"></block><block type="device_forever" id="?OWbZpK?gfD@zED:odr;" x="205" y="0"></block><block type="device_button_event" id="cDZB$neQRbN642Z[tI.j" x="104" y="160"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="h#I|/f0xlS*h3n~ltvFl"><field name="LEDS">`
+        . . # # . 
+        . # . . # 
+        # # # # . 
+        # # # # . 
+        . # . # .
+        `</field></block></statement></block><block type="device_gesture_event" id="B$L{U(WXn@^_~iS^i,^@" x="348" y="314"><field name="NAME">Gesture.LogoUp</field><statement name="HANDLER"><block type="device_print_message" id="gn^oeC$_IuPB-d[]m0Dt"><value name="text"><shadow type="text" id="4AVTGhg[0i4j5V)Yq/k7"><field name="TEXT">Sus</field></shadow></value></block></statement></block></xml>
